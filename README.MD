@@ -1,3 +1,6 @@
+This source code made for a dissertation for ISEL college takes the code from: https://github.com/Xinyuan-LilyGO/LilyGo-Modem-Series to them create the docs
+
+
 <h1 align = "center">🌟LilyGo LoRa Series🌟</h1>
 
 ## **[中文](./README_CN.MD) | English**
@@ -469,5 +472,6 @@ To access TTN (The Things Network), please refer to [LilyGo_LoRa_Series_Quick_St
      - If you are using the SX1262/SX1276 version, you can use GPIO10,21 by removing the two resistors in the figure below. Otherwise, the GPIO is connected to Radio DIO3,DIO4 by default.
 
      ![T3-S3-QWIIC](./images/T3-S3-QWIIC.png)
+
 
      </details>
